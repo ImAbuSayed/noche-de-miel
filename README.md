@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Noche de miel, chula, no hay tiempo que perder
+> Siento la chispa en tu piel, me empieza a encender
+> Tú y yo en la disco, baby, perdiendo el control
+> Got me addicted, you're the master of my soul
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
